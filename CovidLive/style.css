@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+}
+.head,
+.static{
+    text-align: center;
+}
+.head{
+    margin-top: 50px;
+}
+.head .row{
+    padding: 10px;
+}
+.static{
+    margin-top: 20px;
+}
